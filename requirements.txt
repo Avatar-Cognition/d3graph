@@ -1,10 +1,10 @@
-git+https://github.com/Avatar-Cognition/colourmap.git@1.1.16#egg=colourmap
+colourmap@git+https://github.com/Avatar-Cognition/colourmap.git@1.1.17
 ismember
 jinja2
-markupsafe==2.0.1
+markupsafe==2.1.5
 networkx>2
 numpy
 packaging
 pandas
 python-louvain
-git+https://github.com/Avatar-Cognition/datazets.git@0.1.10#egg=datazets
+datazets@git+https://github.com/Avatar-Cognition/datazets.git@0.1.10
