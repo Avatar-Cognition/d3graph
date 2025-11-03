@@ -14,7 +14,7 @@ from d3graph.d3graph import (
 
 __author__ = 'Erdogan Tasksen'
 __email__ = 'erdogant@gmail.com'
-__version__ = '2.5.5'
+__version__ = '2.5.6'
 
 
 # module level doc-string
